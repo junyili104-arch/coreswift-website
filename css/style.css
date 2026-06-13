@@ -1,5 +1,5 @@
-/* ===== CoreSwift - Warm Edition v3 ===== */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=DM+Serif+Display:ital@0;1&display=swap');
+﻿/* ===== CoreSwift - Warm Edition v3 ===== */
+
 
 :root {
   /* 暖色深色调色板 — 2026版 */
@@ -471,3 +471,4 @@ footer .container { display: flex; justify-content: space-between; flex-wrap: wr
   .story-timeline::before { left: 16px; }
   .story-dot { width: 10px; height: 10px; left: 11px; }
 }
+
