@@ -1,0 +1,64 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1410"/>
+      <stop offset="25%" stop-color="#2a1e14"/>
+      <stop offset="45%" stop-color="#3d2818"/>
+      <stop offset="60%" stop-color="#c8703a" stop-opacity="0.3"/>
+      <stop offset="75%" stop-color="#e8874a" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0c0f12" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sunGlow" cx="0.5" cy="0.8" r="0.5" fx="0.5" fy="0.8" gradientUnits="objectBoundingBox" id="sg">
+      <stop offset="0%" stop-color="#e8874a" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#e8874a" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#e8874a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="mountains" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1410"/>
+      <stop offset="100%" stop-color="#0f0d0a"/>
+    </linearGradient>
+    <linearGradient id="mountains2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a2018"/>
+      <stop offset="100%" stop-color="#14100c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Sky gradient -->
+  <rect width="1440" height="900" fill="url(#sky)"/>
+
+  <!-- Sun glow -->
+  <ellipse cx="720" cy="620" rx="400" ry="180" fill="url(#sg)" opacity="0.6"/>
+
+  <!-- Warm light particles -->
+  <g opacity="0.15">
+    <circle cx="300" cy="500" r="1.5" fill="#e8874a"/>
+    <circle cx="500" cy="450" r="1" fill="#e8874a"/>
+    <circle cx="800" cy="480" r="1.5" fill="#e8874a"/>
+    <circle cx="1100" cy="520" r="1" fill="#e8874a"/>
+    <circle cx="200" cy="600" r="0.8" fill="#e8874a"/>
+    <circle cx="900" cy="550" r="1.2" fill="#e8874a"/>
+    <circle cx="1200" cy="580" r="0.8" fill="#e8874a"/>
+  </g>
+
+  <!-- Far mountains (background layer) -->
+  <path d="M0 620 L80 540 L160 560 L240 500 L320 530 L400 480 L480 510 L560 460 L640 490 L720 440 L800 470 L880 500 L960 450 L1040 480 L1120 520 L1200 490 L1280 530 L1360 510 L1440 540 L1440 900 L0 900 Z" fill="url(#mountains)" opacity="0.5"/>
+
+  <!-- Mid mountains -->
+  <path d="M0 680 L100 600 L200 640 L300 570 L380 590 L460 540 L540 570 L620 520 L700 550 L780 510 L860 540 L940 560 L1020 530 L1100 560 L1180 590 L1260 570 L1340 600 L1440 580 L1440 900 L0 900 Z" fill="url(#mountains2)" opacity="0.6"/>
+
+  <!-- Near terrain / ground -->
+  <path d="M0 750 Q 200 700 360 730 Q 520 680 720 720 Q 900 690 1080 710 Q 1260 700 1440 730 L1440 900 L0 900 Z" fill="#14100c" opacity="0.8"/>
+
+  <!-- Subtle mining structure silhouettes -->
+  <g opacity="0.08" stroke="#e8874a" stroke-width="1" fill="none">
+    <rect x="250" y="640" width="3" height="40"/>
+    <rect x="260" y="650" width="3" height="30"/>
+    <line x1="250" y1="640" x2="270" y2="640"/>
+    <rect x="1050" y="620" width="3" height="50"/>
+    <rect x="1060" y="630" width="3" height="40"/>
+    <line x1="1050" y1="620" x2="1070" y2="620"/>
+  </g>
+
+  <!-- Ground surface line -->
+  <rect x="0" y="740" width="1440" height="1" fill="#e8874a" opacity="0.04"/>
+</svg>

@@ -1,0 +1,21 @@
+ <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+   <defs>
+     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+       <stop offset="0%" stop-color="#1a1410"/>
+       <stop offset="60%" stop-color="#231c16"/>
+       <stop offset="100%" stop-color="#1a1410"/>
+     </linearGradient>
+     <linearGradient id="al" x1="0" y1="0" x2="0" y2="1">
+       <stop offset="0%" stop-color="#e8874a"/>
+       <stop offset="100%" stop-color="#c8963e"/>
+     </linearGradient>
+   </defs>
+   <rect width="1200" height="630" fill="url(#bg)"/>
+   <rect x="0" y="0" width="8" height="630" fill="url(#al)"/>
+   <text x="80" y="240" font-family="Georgia,serif" font-size="72" font-weight="bold" fill="#e8874a">CoreSwift Modular</text>
+   <text x="80" y="320" font-family="Arial,sans-serif" font-size="32" fill="#b8a89a">Modular Mine Camp Specialist</text>
+   <text x="80" y="370" font-family="Arial,sans-serif" font-size="24" fill="#8a7a6e">Australian Standard · Compliant Delivery · WA and QLD</text>
+   <rect x="80" y="420" width="120" height="3" fill="#e8874a" rx="2"/>
+   <text x="80" y="520" font-family="Arial,sans-serif" font-size="20" fill="#8a7a6e">coreswiftmodular.com</text>
+   <text x="1040" y="610" font-family="Arial,sans-serif" font-size="16" fill="#4a3e34" text-anchor="end">CoreSwift</text>
+ </svg>
