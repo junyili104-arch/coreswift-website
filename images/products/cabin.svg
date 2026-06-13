@@ -1,0 +1,17 @@
+ <svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+   <rect width="400" height="300" fill="#2d241e"/>
+   <rect x="0" y="180" width="400" height="120" fill="#1e1814"/>
+   <polygon points="0,180 70,100 140,180" fill="#3d2a1e" opacity="0.5"/>
+   <polygon points="60,180 160,60 260,180" fill="#c8963e" opacity="0.15"/>
+   <polygon points="260,180 340,100 400,180" fill="#3d2a1e" opacity="0.5"/>
+   <rect x="125" y="130" width="150" height="100" fill="#4a3e34" rx="3"/>
+   <polygon points="115,140 200,80 285,140" fill="#e8874a" opacity="0.85"/>
+   <rect x="155" y="160" width="35" height="20" fill="#1a1410" rx="1"/>
+   <rect x="210" y="160" width="35" height="25" fill="#1a1410" rx="1"/>
+   <rect x="185" y="155" width="30" height="15" fill="#1a1410" rx="1"/>
+   <rect x="190" y="185" width="20" height="45" fill="#d4763a" rx="1" opacity="0.8"/>
+   <line x1="160" y1="45" x2="160" y2="55" stroke="#e8874a" stroke-width="2" opacity="0.3"/>
+   <line x1="170" y1="40" x2="170" y2="50" stroke="#e8874a" stroke-width="2" opacity="0.3"/>
+   <circle cx="200" cy="70" r="6" fill="#e8874a" opacity="0.2"/>
+   <text x="200" y="270" font-family="Arial,sans-serif" font-size="13" fill="#8a7a6e" text-anchor="middle">AIRBNB CABIN RETREAT</text>
+ </svg>

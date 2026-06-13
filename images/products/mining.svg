@@ -1,0 +1,19 @@
+ <svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+   <rect width="400" height="300" fill="#2d241e"/>
+   <rect x="0" y="200" width="400" height="100" fill="#3d2a1e" rx="0"/>
+   <rect x="60" y="140" width="60" height="60" fill="#e8874a" rx="2" opacity="0.9"/>
+   <rect x="130" y="110" width="70" height="90" fill="#c8963e" rx="2" opacity="0.85"/>
+   <rect x="210" y="130" width="55" height="70" fill="#e8874a" rx="2" opacity="0.75"/>
+   <rect x="275" y="100" width="65" height="100" fill="#d4763a" rx="2" opacity="0.8"/>
+   <polygon points="140,110 165,80 190,110" fill="#e8874a" opacity="0.6"/>
+   <circle cx="165" cy="65" r="12" fill="#e8874a" opacity="0.3"/>
+   <line x1="155" y1="60" x2="175" y2="70" stroke="#e8874a" stroke-width="1.5" opacity="0.4"/>
+   <rect x="80" y="148" width="20" height="8" fill="#1a1410" rx="1"/>
+   <rect x="150" y="118" width="25" height="10" fill="#1a1410" rx="1"/>
+   <rect x="230" y="138" width="15" height="8" fill="#1a1410" rx="1"/>
+   <rect x="295" y="108" width="20" height="10" fill="#1a1410" rx="1"/>
+   <line x1="60" y1="200" x2="60" y2="185" stroke="#d4763a" stroke-width="3"/>
+   <line x1="340" y1="200" x2="340" y2="175" stroke="#d4763a" stroke-width="3"/>
+   <line x1="265" y1="200" x2="265" y2="190" stroke="#d4763a" stroke-width="2"/>
+   <text x="200" y="270" font-family="Arial,sans-serif" font-size="13" fill="#8a7a6e" text-anchor="middle">MINING CAMP MODULAR</text>
+ </svg>

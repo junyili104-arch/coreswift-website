@@ -1,0 +1,18 @@
+ <svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+   <rect width="400" height="300" fill="#2d241e"/>
+   <rect x="0" y="200" width="400" height="100" fill="#1e1814"/>
+   <rect x="95" y="120" width="210" height="135" fill="#3d2a1e" rx="3"/>
+   <polygon points="85,130 200,70 315,130" fill="#e8874a" opacity="0.9"/>
+   <rect x="120" y="160" width="40" height="30" fill="#1a1410" rx="1"/>
+   <rect x="240" y="160" width="40" height="40" fill="#1a1410" rx="1"/>
+   <rect x="150" y="150" width="100" height="15" fill="#1a1410" rx="2"/>
+   <rect x="175" y="185" width="50" height="70" fill="#e8874a" rx="2" opacity="0.85"/>
+   <rect x="177" y="187" width="46" height="15" fill="#1a1410" rx="1"/>
+   <rect x="130" y="120" width="12" height="25" fill="#c8963e" rx="1" opacity="0.6"/>
+   <rect x="258" y="120" width="12" height="25" fill="#c8963e" rx="1" opacity="0.6"/>
+   <rect x="90" y="230" width="8" height="25" fill="#4a3e34"/>
+   <rect x="302" y="230" width="8" height="25" fill="#4a3e34"/>
+   <circle cx="200" cy="100" r="10" fill="#e8874a" opacity="0.2"/>
+   <line x1="195" y1="95" x2="205" y2="105" stroke="#e8874a" stroke-width="1.5" opacity="0.3"/>
+   <text x="200" y="270" font-family="Arial,sans-serif" font-size="13" fill="#8a7a6e" text-anchor="middle">GRANNY FLAT SOLUTIONS</text>
+ </svg>
